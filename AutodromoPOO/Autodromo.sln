@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Autodromo", "Autodromo.vcxproj", "{2C11F50D-9C64-4CAE-9D40-CC406A7FCC58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C11F50D-9C64-4CAE-9D40-CC406A7FCC58}.Debug|x64.ActiveCfg = Debug|x64
+		{2C11F50D-9C64-4CAE-9D40-CC406A7FCC58}.Debug|x64.Build.0 = Debug|x64
+		{2C11F50D-9C64-4CAE-9D40-CC406A7FCC58}.Debug|x86.ActiveCfg = Debug|Win32
+		{2C11F50D-9C64-4CAE-9D40-CC406A7FCC58}.Debug|x86.Build.0 = Debug|Win32
+		{2C11F50D-9C64-4CAE-9D40-CC406A7FCC58}.Release|x64.ActiveCfg = Release|x64
+		{2C11F50D-9C64-4CAE-9D40-CC406A7FCC58}.Release|x64.Build.0 = Release|x64
+		{2C11F50D-9C64-4CAE-9D40-CC406A7FCC58}.Release|x86.ActiveCfg = Release|Win32
+		{2C11F50D-9C64-4CAE-9D40-CC406A7FCC58}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A0D052-AA15-4713-8F3D-316AD4507D09}
+	EndGlobalSection
+EndGlobal
